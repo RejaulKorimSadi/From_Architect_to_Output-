@@ -1,0 +1,18 @@
+Correct Prefix,Correct Continuation,Wrong Prefix,Cascaded Output
+"The capital of France is Paris, which","is home to the French capital's largest city, the Louvre.
+
+The French capital is","The capital of France is Berlin, which","is home to the world's largest concentration of German Jews.
+
+The city is home to the"
+"Penicillin, discovered by Alexander Fleming,","was used to treat tuberculosis in the 19th century.
+
+The drug was used to treat tuberculosis","Penicillin, discovered by Louis Pasteur,","was used to treat tuberculosis in the United States in the 1930s.
+
+The drug was used"
+"The Earth orbits the Sun, completing","its orbit around the Sun. The Earth orbits the Sun at a distance of about 1,000 light","The Earth orbits the Moon, completing",its orbit around the Sun. The Moon is the only planet in the solar system that orbits the Sun
+"Shakespeare, born in Stratford-upon-Avon,","England, in 1843, is a poet, playwright, and dramatist. He has","Shakespeare, born in New York,","died in London in 1859. He was a member of the Royal Society of London, and was"
+"Water boils at 100 degrees Celsius, which means","that the water is heated by the sun.
+
+The temperature of the water is also affected by","Water boils at 20 degrees Celsius, which means","that the water is heated by the sun.
+
+The temperature of the water is also affected by"
