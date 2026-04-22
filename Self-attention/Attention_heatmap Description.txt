@@ -1,0 +1,10 @@
+What the heatmap reveals:
+
+"Albert" attends almost entirely to itself (1.0) — the model locks onto the first token with maximum weight, showing positional bias toward the beginning of the sequence
+"Einstein" attends strongly to "Albert" (~0.8) — the Albert→Einstein co-occurrence pattern is firing as expected
+"was" attends to itself (~0.6) — structural token attending to itself
+"born" and "in" attend weakly across all tokens — the contextually critical tokens for answering the birthplace query receive the least focused attention
+
+
+This directly proves  Section III argument:
+The tokens that matter for the correct answer ("born in" → should point to Ulm) receive the weakest attention. The model is attending to statistical co-occurrence patterns (Albert→Einstein) rather than the semantically relevant tokens for the query.
