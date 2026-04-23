@@ -231,7 +231,7 @@ Each notebook writes its results to a CSV and generates the corresponding figure
 
 ## 📚 Citation
 
-If this work informs your research, please cite:
+If this work informs your research, please cite (demo-only, paper is on hold):
 
 ```bibtex
 @article{sadi2025architecture,
